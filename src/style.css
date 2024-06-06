@@ -1,0 +1,22 @@
+.nv{
+    background-color: rgb(31, 121, 156);
+    font-family:cursive;
+
+}
+
+.bg{
+    background-color: rgb(19, 23, 34);
+}
+
+.card{
+    background-color: rgb(19, 23, 34);
+    cursor:pointer;
+}
+
+.tex{
+    font-family:cursive;
+}
+
+.line{
+    width: 450px;
+}
